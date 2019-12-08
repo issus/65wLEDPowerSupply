@@ -38,9 +38,9 @@ Check Topology
 Single ended nodes detected!
   10 high-resistance connections to gnd were inserted!
 Writing Results
-   No. Signal Capacitive Areas:      9968
+   No. Signal Capacitive Areas:      9972
    No. Reference Capacitive Areas:   0
-   No. Signal Inductive Segments:    17427
+   No. Signal Inductive Segments:    17435
    No. Reference Inductive Segments: 0
    No. Via Inductive Segments:       441
    No. Dielectric Elements:          0
@@ -158,7 +158,7 @@ Writing model
  Direct solver: time for deallocating matrix and solver memory was 0 sec 
  Direct solver: time for solving was 0 sec 
  Direct solver: time for deallocating matrix and solver memory was 0 sec 
- Direct solver finished in 0 sec 
+ Direct solver finished in 1 sec 
 Creating dsn file
 export3d finished successfully in 1 sec 
 
@@ -183,8 +183,8 @@ Unphysical voltage drop on IO side! Possible reasons:
   - the current Iic drawn by the ICs is too large or the voltage 'Usupply' of the power supply is too small;
   - the condition 'Usupply > Rpath*Iic' for a working power/ground system is not fulfilled;
 
-Kernel currcalc finished successfully in 1 sec 
+Kernel currcalc finished successfully in 0 sec 
 
  direct IR-Drop calculation done
-Kernel solverccd has finished in 3 sec 
+Kernel solverccd has finished in 2 sec 
 

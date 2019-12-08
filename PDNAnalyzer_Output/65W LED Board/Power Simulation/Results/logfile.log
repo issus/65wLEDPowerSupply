@@ -38,9 +38,9 @@ Check Topology
 Single ended nodes detected!
   10 high-resistance connections to gnd were inserted!
 Writing Results
-   No. Signal Capacitive Areas:      9968
+   No. Signal Capacitive Areas:      9972
    No. Reference Capacitive Areas:   0
-   No. Signal Inductive Segments:    17427
+   No. Signal Inductive Segments:    17435
    No. Reference Inductive Segments: 0
    No. Via Inductive Segments:       441
    No. Dielectric Elements:          0
@@ -65,7 +65,7 @@ Writing model
  Direct solver: time for solving was 0 sec 
  Direct solver: time for deallocating matrix and solver memory was 0 sec 
  Direct solver: time for solving was 0 sec 
- Direct solver: time for deallocating matrix and solver memory was 0 sec 
+ Direct solver: time for deallocating matrix and solver memory was 1 sec 
  Direct solver: time for solving was 0 sec 
  Direct solver: time for deallocating matrix and solver memory was 0 sec 
  Direct solver: time for solving was 0 sec 
@@ -158,9 +158,9 @@ Writing model
  Direct solver: time for deallocating matrix and solver memory was 0 sec 
  Direct solver: time for solving was 0 sec 
  Direct solver: time for deallocating matrix and solver memory was 0 sec 
- Direct solver finished in 0 sec 
+ Direct solver finished in 1 sec 
 Creating dsn file
-export3d finished successfully in 0 sec 
+export3d finished successfully in 1 sec 
 
 currcalc - Version 2018.4 Build: 20180318
 currcalc has started

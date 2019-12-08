@@ -1,5 +1,5 @@
 
-Importing C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\odb.tgz... [Sun Dec  8 03:28:16 2019]
+Importing C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\odb.tgz... [Sun Dec  8 04:17:25 2019]
 ============================================================
 Reading ODB++ database ...
 
@@ -13,13 +13,13 @@ Reading file odb/steps/pcb/layers/top_solder/features...
 244 SWHs on layer TOP_SOLDER
 
 Reading file odb/steps/pcb/layers/top_layer/features...
-516 SWHs on layer TOP_LAYER
+528 SWHs on layer TOP_LAYER
 
 Reading file odb/steps/pcb/layers/layer_1/features...
 0 SWHs on layer LAYER_1
 
 Reading file odb/steps/pcb/layers/layer_2/features...
-188 SWHs on layer LAYER_2
+187 SWHs on layer LAYER_2
 
 Reading file odb/steps/pcb/layers/bottom_layer/features...
 163 SWHs on layer BOTTOM_LAYER
@@ -40,7 +40,7 @@ WARNING: material values were set to default due to missing information for the 
 parsing drills TOP_LAYER-BOTTOM_LAYER
 Reading file odb/steps/pcb/layers/drill/features...
 Reading file odb/steps/pcb/layers/comp_+_top/components...
-INFO: 48 duplicate vertices ignored
+INFO: 44 duplicate vertices ignored
 ========================================
 INFO: Created CSV file (C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\Results-0\tmp\design.csv) with component properties extracted from ODB++ file.
 ========================================

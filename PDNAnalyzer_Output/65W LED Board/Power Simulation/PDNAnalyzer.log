@@ -107,7 +107,7 @@ CST PI-DC solution
 <<info>>
 PI-DC analysis finished successfully.
 <<end>>
-Solver Process 21776 exited with code 0.
+Solver Process 37376 exited with code 0.
 eMessage_Info Simulation Progress: 10%
 <<info>>
 CST PI-DC Module [built: Mar 18 2018 / 22:44:35, version=Version 2018.4 Build: 20180318]
@@ -216,7 +216,7 @@ CST PI-DC solution
 <<info>>
 PI-DC analysis finished successfully.
 <<end>>
-Solver Process 42964 exited with code 0.
+Solver Process 55340 exited with code 0.
 eMessage_Info Simulation Progress: 99.19%
 <<info>>
 CST PI-DC Module [built: Mar 18 2018 / 22:44:35, version=Version 2018.4 Build: 20180318]
@@ -325,8 +325,8 @@ CST PI-DC solution
 <<info>>
 PI-DC analysis finished successfully.
 <<end>>
-Solver Process 36604 exited with code 0.
+Solver Process 20888 exited with code 0.
 eMessage_Info Simulation Progress: 100%
 eMessage_Info Load and analyze result for Power Simulation
-eMessage_Info Found violations
+eMessage_Info No violations
 eMessage_Info Analysis Complete Power Simulation

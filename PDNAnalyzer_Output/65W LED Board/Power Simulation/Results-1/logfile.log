@@ -38,9 +38,9 @@ Check Topology
 Single ended nodes detected!
   10 high-resistance connections to gnd were inserted!
 Writing Results
-   No. Signal Capacitive Areas:      9968
+   No. Signal Capacitive Areas:      9972
    No. Reference Capacitive Areas:   0
-   No. Signal Inductive Segments:    17427
+   No. Signal Inductive Segments:    17435
    No. Reference Inductive Segments: 0
    No. Via Inductive Segments:       441
    No. Dielectric Elements:          0
@@ -186,5 +186,5 @@ Unphysical voltage drop on IO side! Possible reasons:
 Kernel currcalc finished successfully in 0 sec 
 
  direct IR-Drop calculation done
-Kernel solverccd has finished in 3 sec 
+Kernel solverccd has finished in 2 sec 
 
