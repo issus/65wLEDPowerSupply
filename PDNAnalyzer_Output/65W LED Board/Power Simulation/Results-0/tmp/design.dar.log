@@ -1,0 +1,80 @@
+
+Importing C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\odb.tgz... [Sun Dec  8 03:28:16 2019]
+============================================================
+Reading ODB++ database ...
+
+file not found: odb/misc/info.Z
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+eda data: 24 packages, 27 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+244 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+516 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/layer_1/features...
+0 SWHs on layer LAYER_1
+
+Reading file odb/steps/pcb/layers/layer_2/features...
+188 SWHs on layer LAYER_2
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+163 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+141 SWHs on layer BOTTOM_SOLDER
+
+Added substrate layer SUBSTRATE-1 below etch layer TOP_LAYER
+Added substrate layer SUBSTRATE-2 below etch layer LAYER_1
+Added substrate layer SUBSTRATE-3 below etch layer LAYER_2
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/layer_1/attrlist...
+Reading file odb/steps/pcb/layers/layer_2/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'LAYER_1', 'LAYER_2', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+INFO: 48 duplicate vertices ignored
+========================================
+INFO: Created CSV file (C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\Results-0\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\Results-0\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	1.1MR ->  1.1 MOhms (R)
+	1.1R ->  1.1 Ohms (R)
+	1.54kR ->  1.54 kOhms (R)
+	100nF ->  100.0 nF (C)
+	100uH ->  100.0 uH (L)
+	10kR ->  10.0 kOhms (R)
+	10nF ->  10.0 nF (C)
+	10uF ->  10.0 uF (C)
+	124kR ->  124.0 kOhms (R)
+	147kR ->  147.0 kOhms (R)
+	150mR ->  150.0 mOhms (R)
+	1kR ->  1.0 kOhms (R)
+	2.2uF ->  2.2 uF (C)
+	22uF ->  22.0 uF (C)
+	33kR ->  33.0 kOhms (R)
+	33uH ->  33.0 uH (L)
+	348kR ->  348.0 kOhms (R)
+	47uF ->  47.0 uF (C)
+	51kR ->  51.0 kOhms (R)
+	56nF ->  56.0 nF (C)
+	63.4kR ->  63.4 kOhms (R)
+	680R ->  680.0 Ohms (R)
+	9.76kR ->  9.76 kOhms (R)
+========================================
+Auto-imported CSV-file 'C:\Users\Public\Documents\Altium\Projects\65wLEDPowerSupply\PDNAnalyzer_Output\65W LED Board\Power Simulation\Results-0\tmp\design.csv'.
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================
